@@ -1,0 +1,14 @@
+{
+  "id": "zen-ai-tidy",
+  "name": "Zen AI Tidy",
+  "description": "Arc-style Tidy for Zen: groups loose tabs into folders using on-device Apple Intelligence. Needs the tidy-helper Homebrew formula from the same repo (see README).",
+  "homepage": "https://github.com/SrujanPonnapalli/zen-ai-tidy",
+  "author": "SrujanPonnapalli",
+  "version": "1.0.0",
+  "tags": ["tabs", "folders", "ai"],
+  "scripts": {
+    "chrome/JS/zen-ai-tidy.uc.mjs": {
+      "include": ["chrome://browser/content/browser.xhtml"]
+    }
+  }
+}

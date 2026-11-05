@@ -1,0 +1,281 @@
+{
+"existing": [],
+"tabs": [
+{
+"id": 1,
+"title": "3 bd 2 ba house for sale in Oakland, CA - Zillow",
+"host": "zillow.com",
+"expect": "house"
+},
+{
+"id": 2,
+"title": "Ownership - The Rust Programming Language",
+"host": "doc.rust-lang.org",
+"expect": "rust"
+},
+{
+"id": 3,
+"title": "Wedding venues in Napa Valley - The Knot",
+"host": "theknot.com",
+"expect": "wedding"
+},
+{
+"id": 4,
+"title": "[2405.12345] Scaling Laws for Sparse Mixture-of-Experts",
+"host": "arxiv.org",
+"expect": "ml"
+},
+{
+"id": 5,
+"title": "Cannondale Topstone 2 Gravel Bike | REI Co-op",
+"host": "rei.com",
+"expect": "bike"
+},
+{
+"id": 6,
+"title": "Rockridge homes for sale | Redfin",
+"host": "redfin.com",
+"expect": "house"
+},
+{
+"id": 7,
+"title": "Fed holds rates steady - The New York Times",
+"host": "nytimes.com",
+"expect": null
+},
+{
+"id": 8,
+"title": "tokio::sync::mpsc - Rust",
+"host": "docs.rs",
+"expect": "rust"
+},
+{
+"id": 9,
+"title": "Fantasy Football Week 10 Rankings - ESPN",
+"host": "espn.com",
+"expect": "ff"
+},
+{
+"id": 10,
+"title": "Wedding registry - Zola",
+"host": "zola.com",
+"expect": "wedding"
+},
+{
+"id": 11,
+"title": "mistralai/Mixtral-8x7B-v0.1 \u00b7 Hugging Face",
+"host": "huggingface.co",
+"expect": "ml"
+},
+{
+"id": 12,
+"title": "Chicken Tikka Masala Recipe - NYT Cooking",
+"host": "nytcooking.com",
+"expect": "recipe"
+},
+{
+"id": 13,
+"title": "Mortgage calculator - Bankrate",
+"host": "bankrate.com",
+"expect": "house"
+},
+{
+"id": 14,
+"title": "tokio-rs/axum: Ergonomic and modular web framework",
+"host": "github.com",
+"expect": "rust"
+},
+{
+"id": 15,
+"title": "Best gravel bikes 2026 | BikeRadar",
+"host": "bikeradar.com",
+"expect": "bike"
+},
+{
+"id": 16,
+"title": "Sleeper - League: Office Champs",
+"host": "sleeper.com",
+"expect": "ff"
+},
+{
+"id": 17,
+"title": "[2401.04088] Mixtral of Experts",
+"host": "arxiv.org",
+"expect": "ml"
+},
+{
+"id": 18,
+"title": "Save the dates - Minted",
+"host": "minted.com",
+"expect": "wedding"
+},
+{
+"id": 19,
+"title": "Perfect Basmati Rice | Bon App\u00e9tit",
+"host": "bonappetit.com",
+"expect": "recipe"
+},
+{
+"id": 20,
+"title": "Byzantine Empire - Wikipedia",
+"host": "wikipedia.org",
+"expect": null
+},
+{
+"id": 21,
+"title": "Home affordability calculator - Zillow",
+"host": "zillow.com",
+"expect": "house"
+},
+{
+"id": 22,
+"title": "serde - crates.io: Rust Package Registry",
+"host": "crates.io",
+"expect": "rust"
+},
+{
+"id": 23,
+"title": "MoE routing benchmarks | Papers With Code",
+"host": "paperswithcode.com",
+"expect": "ml"
+},
+{
+"id": 24,
+"title": "Checkpoint SL 5 | Trek Bikes",
+"host": "trekbikes.com",
+"expect": "bike"
+},
+{
+"id": 25,
+"title": "Waiver Wire Pickups Week 10 - FantasyPros",
+"host": "fantasypros.com",
+"expect": "ff"
+},
+{
+"id": 26,
+"title": "Wedding budget calculator - The Knot",
+"host": "theknot.com",
+"expect": "wedding"
+},
+{
+"id": 27,
+"title": "How to make naan at home - Serious Eats",
+"host": "seriouseats.com",
+"expect": "recipe"
+},
+{
+"id": 28,
+"title": "rust - borrowed value does not live long enough - Stack Overflow",
+"host": "stackoverflow.com",
+"expect": "rust"
+},
+{
+"id": 29,
+"title": "Open houses this weekend in Oakland | Redfin",
+"host": "redfin.com",
+"expect": "house"
+},
+{
+"id": 30,
+"title": "huggingface/transformers: State-of-the-art ML",
+"host": "github.com",
+"expect": "ml"
+},
+{
+"id": 31,
+"title": "10-day forecast for Oakland, CA",
+"host": "weather.com",
+"expect": null
+},
+{
+"id": 32,
+"title": "r/gravelcycling - Topstone vs Checkpoint?",
+"host": "reddit.com",
+"expect": "bike"
+},
+{
+"id": 33,
+"title": "Christian McCaffrey injury update - ESPN",
+"host": "espn.com",
+"expect": "ff"
+},
+{
+"id": 34,
+"title": "Rustic wedding centerpieces ideas - Pinterest",
+"host": "pinterest.com",
+"expect": "wedding"
+},
+{
+"id": 35,
+"title": "Joshua Weissman - Butter Chicken But Better",
+"host": "youtube.com",
+"expect": "recipe"
+},
+{
+"id": 36,
+"title": "Mixture of Experts explained | Lil'Log",
+"host": "lilianweng.github.io",
+"expect": "ml"
+},
+{
+"id": 37,
+"title": "Install Rust - Rust Programming Language",
+"host": "rust-lang.org",
+"expect": "rust"
+},
+{
+"id": 38,
+"title": "How much house can I afford? - NerdWallet",
+"host": "nerdwallet.com",
+"expect": "house"
+},
+{
+"id": 39,
+"title": "Notifications \u00b7 GitHub",
+"host": "github.com",
+"expect": null
+},
+{
+"id": 40,
+"title": "Strava - My Activities",
+"host": "strava.com",
+"expect": "bike"
+},
+{
+"id": 41,
+"title": "r/fantasyfootball - Start/Sit Thread Week 10",
+"host": "reddit.com",
+"expect": "ff"
+},
+{
+"id": 42,
+"title": "Personalized bridesmaid gifts - Etsy",
+"host": "etsy.com",
+"expect": "wedding"
+},
+{
+"id": 43,
+"title": "Garlic Naan Recipe - NYT Cooking",
+"host": "nytcooking.com",
+"expect": "recipe"
+},
+{
+"id": 44,
+"title": "Andrej Karpathy - Let's build GPT from scratch",
+"host": "youtube.com",
+"expect": "ml"
+},
+{
+"id": 45,
+"title": "Oakland CA real estate market trends - Zillow",
+"host": "zillow.com",
+"expect": "house"
+},
+{
+"id": 46,
+"title": "Rust in 100 Seconds - Fireship",
+"host": "youtube.com",
+"expect": "rust"
+}
+]
+}

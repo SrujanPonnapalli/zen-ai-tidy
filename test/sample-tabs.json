@@ -1,0 +1,127 @@
+{
+"existing": [
+"Work"
+],
+"tabs": [
+{
+"id": 1,
+"title": "Pull request #412: fix auth redirect \u00b7 acme/web",
+"host": "github.com",
+"expect": "acme"
+},
+{
+"id": 2,
+"title": "Issues \u00b7 acme/web",
+"host": "github.com",
+"expect": "acme"
+},
+{
+"id": 3,
+"title": "Vercel \u2013 acme-web deployments",
+"host": "vercel.com",
+"expect": "acme"
+},
+{
+"id": 4,
+"title": "useEffect \u2013 React",
+"host": "react.dev",
+"expect": "dev"
+},
+{
+"id": 5,
+"title": "Array.prototype.flatMap() - JavaScript | MDN",
+"host": "developer.mozilla.org",
+"expect": "dev"
+},
+{
+"id": 6,
+"title": "typescript - How to narrow a union type - Stack Overflow",
+"host": "stackoverflow.com",
+"expect": "dev"
+},
+{
+"id": 7,
+"title": "Flights to Tokyo | Google Flights",
+"host": "google.com",
+"expect": "japan"
+},
+{
+"id": 8,
+"title": "Park Hyatt Tokyo - Booking.com",
+"host": "booking.com",
+"expect": "japan"
+},
+{
+"id": 9,
+"title": "Things to do in Kyoto - Tripadvisor",
+"host": "tripadvisor.com",
+"expect": "japan"
+},
+{
+"id": 10,
+"title": "JR Pass \u2013 Japan Rail Pass",
+"host": "japanrailpass.net",
+"expect": "japan"
+},
+{
+"id": 11,
+"title": "Lofi beats to code to - YouTube",
+"host": "youtube.com",
+"expect": "music"
+},
+{
+"id": 12,
+"title": "Spotify \u2013 Discover Weekly",
+"host": "open.spotify.com",
+"expect": "music"
+},
+{
+"id": 13,
+"title": "Sony WH-1000XM6 review | The Verge",
+"host": "theverge.com",
+"expect": "phones"
+},
+{
+"id": 14,
+"title": "Amazon.com: Sony WH-1000XM6 Wireless Headphones",
+"host": "amazon.com",
+"expect": "phones"
+},
+{
+"id": 15,
+"title": "Bose QC Ultra vs Sony XM6 - rtings.com",
+"host": "rtings.com",
+"expect": "phones"
+},
+{
+"id": 16,
+"title": "Inbox (3) - srujan@acme.dev - Gmail",
+"host": "mail.google.com",
+"expect": "acme"
+},
+{
+"id": 17,
+"title": "Q4 planning doc - Google Docs",
+"host": "docs.google.com",
+"expect": "acme"
+},
+{
+"id": 18,
+"title": "Linear \u2013 ACME-221 Onboarding flow",
+"host": "linear.app",
+"expect": "acme"
+},
+{
+"id": 19,
+"title": "Weather in San Francisco",
+"host": "weather.com",
+"expect": null
+},
+{
+"id": 20,
+"title": "Easy weeknight pasta recipes - Serious Eats",
+"host": "seriouseats.com",
+"expect": null
+}
+]
+}
