@@ -4,6 +4,8 @@ Arc had a button that looked at your messy pile of tabs and sorted them into nam
 
 The sorting runs on Apple Intelligence, on your Mac. There's no API key to set up, and your tab titles never leave the machine.
 
+https://github.com/user-attachments/assets/f6705af5-603f-4950-a136-85b47bbfa0e1
+
 ## What it does
 
 Hover the sidebar and a small paintbrush labelled **Tidy** shows up on the divider between your pinned and unpinned tabs, next to Zen's own clear button. Click it and, after 10 to 20 seconds, your loose tabs move into folders. If a tab fits a folder you already have, it goes there instead of into a new one. Tabs that don't share a topic with anything else stay where they are.
