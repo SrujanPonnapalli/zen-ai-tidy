@@ -4,7 +4,7 @@ Arc had a button that looked at your messy pile of tabs and sorted them into nam
 
 The sorting runs on Apple Intelligence, on your Mac. There's no API key to set up, and your tab titles never leave the machine.
 
-https://github.com/user-attachments/assets/f6705af5-603f-4950-a136-85b47bbfa0e1
+https://github.com/user-attachments/assets/c2d10c0f-c974-408d-8bca-3b7e339840bd
 
 ## What it does
 
